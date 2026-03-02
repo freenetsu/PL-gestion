@@ -1,6 +1,6 @@
 # SaasConcour
 
-Une application SaaS moderne construite avec React, TypeScript, et Tailwind CSS.
+Une application SaaS moderne construite avec React, TypeScript, et Tailwind CSS. (CRM entreprise)
 
 ## 🚀 Technologies
 
